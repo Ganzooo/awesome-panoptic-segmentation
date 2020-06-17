@@ -83,13 +83,12 @@ Generally, the datasets which contains both semantic and instance annotations ca
 ## Papers 
 
 ### CVPR2020
-*
 * Dundar, Aysegul, et al. "Panoptic-based Image Synthesis." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Dundar_Panoptic-Based_Image_Synthesis_CVPR_2020_paper.html)]
 * Wang, Haochen, et al. "Pixel Consensus Voting for Panoptic Segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Pixel_Consensus_Voting_for_Panoptic_Segmentation_CVPR_2020_paper.html)]
 * Cheng, Bowen, et al. "Panoptic-deeplab: A simple, strong, and fast baseline for bottom-up panoptic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Panoptic-DeepLab_A_Simple_Strong_and_Fast_Baseline_for_Bottom-Up_Panoptic_CVPR_2020_paper.pdf)]
 * Lazarow, Justin, et al. "Learning instance occlusion for panoptic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper] (http://openaccess.thecvf.com/content_CVPR_2020/html/Lazarow_Learning_Instance_Occlusion_for_Panoptic_Segmentation_CVPR_2020_paper.html)]
 * Chen, Yifeng, et al. "BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_BANet_Bidirectional_Aggregation_Network_With_Occlusion_Handling_for_Panoptic_Segmentation_CVPR_2020_paper.html)]
-* 
+
 ### AAAI2020
 * **SOGNet:** Yibo Yang, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin.<br />"SOGNet: Scene Overlap Graph Network for Panoptic Segmentation." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.07527.pdf)]
 
