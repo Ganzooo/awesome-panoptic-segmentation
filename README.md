@@ -154,5 +154,5 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 
 ## Blogs
-* Megvii(Face++) Detection Team. [[zhihu]](https://zhuanlan.zhihu.com/p/59141570)
+* [Review] UPSNet Review by CDM team https://cdm98.tistory.com/40
 
