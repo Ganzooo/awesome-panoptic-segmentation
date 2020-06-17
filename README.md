@@ -155,4 +155,6 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 ## Blogs
 * [Review] UPSNet Review by CDM team https://cdm98.tistory.com/40
+* [Review] End-to-end object detection with Transformers(Panoptic) by CDM https://cdm98.tistory.com/48?category=757886
+* Segmentation이 뭔까요? https://89douner.tistory.com/113
 
