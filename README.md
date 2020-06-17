@@ -44,15 +44,6 @@ Generally, the datasets which contains both semantic and instance annotations ca
 * [cocodataset/panopticapi](https://github.com/cocodataset/panopticapi)
 * [mcordts/cityscapesScripts](https://github.com/mcordts/cityscapesScripts)
 
-### Competition
-* [AutoNUE 2019 Panoptic Segmentation Challenge (ICCV 2019 Workshop, Closed)](https://cvit.iiit.ac.in/autonue2019/challenge/)
-* [COCO 2019 Panoptic Segmentation Task (ICCV 2019 Workshop, Closed)](http://cocodataset.org/#panoptic-2019)
-* [Mapillary 2019 Panoptic Segmentation Task (ICCV 2019 Workshop, Closed)](https://research.mapillary.com/eccv18/#panoptic)
-* [Cityscapes Panoptic Semantic Labeling Task (Open)](https://www.cityscapes-dataset.com/benchmarks/#panoptic-scene-labeling-task)
-* [COCO 2018 Panoptic Segmentation Task (ECCV 2018 Workshop, Closed)](http://cocodataset.org/index.htm#panoptic-2018)
-* [Mapillary Vistas 2018 Panoptic Segmentation Task (ECCV 2018 Workshop, Closed)](https://research.mapillary.com/eccv18/#panoptic)
-
-
 ## Benchmark Results
 ### COCO `val` Benchmark
 | Method | Backbone | PQ | PQ-Thing | PQ-Stuff | SQ | RQ | mIoU | AP-Mask | PC |  e2e | 
@@ -90,6 +81,9 @@ Generally, the datasets which contains both semantic and instance annotations ca
 
 
 ## Papers 
+
+### CVPR2020
+* Cheng, Bowen, et al. "Panoptic-deeplab: A simple, strong, and fast baseline for bottom-up panoptic segmentation." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Panoptic-DeepLab_A_Simple_Strong_and_Fast_Baseline_for_Bottom-Up_Panoptic_CVPR_2020_paper.pdf)]
 ### AAAI2020
 * **SOGNet:** Yibo Yang, Hongyang Li, Xia Li, Qijie Zhao, Jianlong Wu, Zhouchen Lin.<br />"SOGNet: Scene Overlap Graph Network for Panoptic Segmentation." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.07527.pdf)]
 
